@@ -1,0 +1,9 @@
+id,organization_id,accessibility,admin_emails,alternate_name,description,email,languages,latitude,longitude,name,transportation,virtual,website
+1,1,,,,"We are open for distribution only on Tuesday.  We ask that there be no one in line before 6:00 am.
+
+Contact Bread of Life at the phone number provided to see if they can use any items you may have to donate.",,,,,Bread of Life,,,www.breadoflifewichita.com
+2,2,,,,"Call for pantry service hours, or whether items you may have for donation are needed.",,,,,Brotherhood Presbyterian Church,,,
+3,3,,,,"Call to confirm food pantry is still in operation and hours have not changed, or whether items you may have for donation are needed.",,,,,Catholic Charities,,,
+4,4,,,,"The Inter-Faith Inn is a 24-hour full-service facility, providing shelter, meals, clothing and other basic living essentials for individuals, single parents and families.",,,,,Inter-Faith Inn,,FALSE,http://www.interfaithwichita.org
+5,4,,,,"Ti’Wiconi Safe Haven is a full-service facility providing shelter, meals, case management and other support services in an effort to promote self-worth and self-sufficiency.",,,,,Ti'Wiconi Safe Haven,,FALSE,http://www.interfaithwichita.org
+6,5,,,,"At the Union Rescue Mission, we strive to make our Emergency Shelter a safe place both physically and emotionally for the men who stay with us.",,,,,Emergency Overnight Shelter for Men,,FALSE,http://urmwichita.org/
