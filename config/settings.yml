@@ -198,14 +198,11 @@ required_documents:
 #
 # The list below should remain in alphabetical order.
 valid_service_areas:
-  - 'Alameda County'
-  - 'Belmont'
-  - 'Burlingame'
-  - 'Colma'
-  - 'Daly City'
-  - 'East Palo Alto'
-  - 'San Mateo County'
-  - 'South San Francisco'
+  - 'Butler County'
+  - 'Harvey County'
+  - 'Sedgwick County'
+  - 'South Central Kansas'
+  - 'Wichita'
 
 ############################
 #
@@ -254,7 +251,9 @@ confirmation_email: noreply@openwichita.com
 # Make sure to change the coordinates to match your preferred search area.
 #
 # This setting is used in 'app/models/concerns/search.rb'.
-bounds: [[25.7084, -124.085], [48.9084, -67.085]]
+# NOTE: current bounds roughly encompass Sedgwick, Harvey, and Butler counties
+# in KS.
+bounds: [[37.470023, -97.809874], [38.193595, -96.516799]]
 
 ###########################################
 #
