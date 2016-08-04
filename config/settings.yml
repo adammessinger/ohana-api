@@ -78,6 +78,7 @@ generic_domains:
   - comcast.net
   - cox.net
   - att.net
+  - outlook.com
 
 # These will be the values that admin interface users will choose from when
 # updating a Location's or a Service's languages. Make sure to update
